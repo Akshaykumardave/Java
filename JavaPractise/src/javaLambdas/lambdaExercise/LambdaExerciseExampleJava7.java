@@ -1,6 +1,7 @@
 package javaLambdas.lambdaExercise;
 
 import java.util.*;
+import java.util.function.Predicate;
 
 public class LambdaExerciseExampleJava7 {
     public static void main(String[] args) {
